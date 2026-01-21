@@ -47,3 +47,4 @@ if __name__ == '__main__':
     tree.pre_order(tree.root)
     print()
     tree.level_order()
+

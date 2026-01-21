@@ -37,3 +37,4 @@ mydict = {
 #注意不要漏了.item()
 print(sorted(mydict.items(), key = lambda x:(x[1][1],x[1][0])))
 #key填的是一个元组, 元组也是可以比较的, 先比前面后比后面
+

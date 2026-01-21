@@ -31,3 +31,4 @@ if __name__=='__main__':
     sort_list = Sort(n)
     sort_list.quick_sort(0,n-1)
     print(sort_list.arr)
+
